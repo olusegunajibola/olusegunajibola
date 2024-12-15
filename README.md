@@ -21,8 +21,8 @@
 **Big Data**: Hadoop, Spark, Hive  
 **ML & AI Frameworks**: Pytorch, TensorFlow, Scikit-learn, Keras  
 **Visualization**: Tableau, Matplotlib, Seaborn  
-**Cloud**: Oracle Cloud, Docker , AWS
-**Tools**: Jupyter Notebook, Git, VS Code, PyCharm  
+**Cloud**: Oracle Cloud, Docker, AWS  
+**Tools**: Jupyter Notebook, Git, VS Code, PyCharm
 
 ---
 
