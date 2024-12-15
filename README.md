@@ -21,7 +21,7 @@
 ## 🛠️ My Technical Toolbox
 
 **Programming**: Python, R, SQL, Java  
-**LLMs & AI Models**: OpenAI GPT, Mistral AI, Llama
+**LLMs & AI Models**: OpenAI GPT, Mistral AI, Llama  
 **Big Data**: Hadoop, Spark, Hive  
 **ML & AI Frameworks**: PyTorch, TensorFlow, Scikit-learn, Keras  
 **Visualization**: Tableau, Matplotlib, Seaborn  
