@@ -41,9 +41,9 @@
 
 ## 🌟 Why Work With Me?
 
-📌 **LLM Expertise**: Extensive experience embedding large language models into innovative solutions.
+📌 **LLM Expertise**: Extensive experience embedding large language models into innovative solutions.  
 📌 **Problem Solver**: I blend mathematics, statistics, and technology to craft innovative solutions.  
-📌 **Certified Data Scientist**: Recognized as an Oracle-certified professional for expertise in AI/ML on cloud platforms.
+📌 **Certified Data Scientist**: Recognized as an Oracle-certified professional for expertise in AI/ML on cloud platforms.  
 📌 **Continuous Learner**: Always staying ahead with cutting-edge tools and methodologies.  
 📌 **Global Perspective**: My international education and experience bring a unique lens to every project.  
 
