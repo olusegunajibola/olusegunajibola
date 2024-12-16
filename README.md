@@ -21,6 +21,8 @@
 ## 🛠️ My Technical Toolbox
 
 **Programming**: Python, R, SQL, Java  
+**Web Scraping**: Selenium, Beautiful Soup, Scrapy  
+**Automation**: Python scripting for scraping and data processing  
 **LLMs & AI Models**: OpenAI GPT, Mistral AI, Llama  
 **Big Data**: Hadoop, Spark, Hive  
 **ML & AI Frameworks**: PyTorch, TensorFlow, Scikit-learn, Keras  
@@ -46,6 +48,7 @@
 📌 **Certified Data Scientist**: Recognized as an Oracle-certified professional for expertise in AI/ML on cloud platforms.  
 📌 **Continuous Learner**: Always staying ahead with cutting-edge tools and methodologies.  
 📌 **Global Perspective**: My international education and experience bring a unique lens to every project.  
+📌 **Ethical Practices**: Ensure compliance with legal and ethical web scraping and other data usage guidelines.
 
 ---
 
